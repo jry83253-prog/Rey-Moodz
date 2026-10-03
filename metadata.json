@@ -1,0 +1,6 @@
+{
+  "name": "REY MODDER",
+  "description": "Katalog aplikasi pilihan terupdate oleh REY MODDER — MOD • UPDATE • SHARE",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
